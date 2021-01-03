@@ -1,0 +1,14 @@
+.container{
+  width:100%;
+  margin:auto;
+  text-align:center;
+}
+.btn{
+  margin: 40px;
+  width:100px;
+  height:40px;
+}
+b{
+  font-weight:bold;
+  font-size:30px;
+}
